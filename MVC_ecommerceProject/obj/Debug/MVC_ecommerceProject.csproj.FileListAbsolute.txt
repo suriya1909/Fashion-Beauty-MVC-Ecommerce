@@ -1,0 +1,333 @@
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\MVC_ecommerceProject.dll.config
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\MVC_ecommerceProject.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\MVC_ecommerceProject.pdb
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csc.exe
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csc.exe.config
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csc.rsp
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csi.exe
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csi.exe.config
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csi.rsp
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.AppContext.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Collections.Immutable.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Console.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Globalization.Calendars.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.IO.Compression.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.IO.FileSystem.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Net.Http.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Net.Sockets.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.ValueTuple.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Xml.XPath.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\vbc.exe
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\vbc.exe.config
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\vbc.rsp
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\VBCSCompiler.exe
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\VBCSCompiler.exe.config
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Antlr3.Runtime.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\EntityFramework.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\EntityFramework.SqlServer.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Core.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Cookies.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Facebook.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Google.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.OAuth.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Twitter.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Web.Infrastructure.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Newtonsoft.Json.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Owin.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Helpers.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Mvc.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Optimization.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Razor.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.Deployment.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.Razor.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\WebGrease.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Helpers.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Mvc.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Optimization.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Razor.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.Deployment.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.Razor.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Newtonsoft.Json.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Antlr3.Runtime.pdb
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\EntityFramework.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\EntityFramework.SqlServer.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Core.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Facebook.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Cookies.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Google.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Twitter.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.OAuth.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.csproj.AssemblyReference.cache
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.csproj.CoreCompileInputs.cache
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecom.4679353F.Up2Date
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.dll
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.pdb
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.Migrations.ScriptS.resources
+E:\P_Practice\MVC_Project\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.csproj.GenerateResource.cache
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\MVC_ecommerceProject.dll.config
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\MVC_ecommerceProject.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\MVC_ecommerceProject.pdb
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csc.exe
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csc.exe.config
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csc.rsp
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csi.exe
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csi.exe.config
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\csi.rsp
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.AppContext.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Console.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.IO.Compression.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Net.Http.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Net.Sockets.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.ValueTuple.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Xml.XPath.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\vbc.exe
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\vbc.exe.config
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\vbc.rsp
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\VBCSCompiler.exe
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Antlr3.Runtime.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\EntityFramework.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\EntityFramework.SqlServer.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Google.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Newtonsoft.Json.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Owin.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Helpers.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Mvc.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Optimization.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Razor.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.Deployment.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.Razor.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\WebGrease.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Helpers.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Mvc.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Optimization.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.Razor.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.Deployment.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\System.Web.WebPages.Razor.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Newtonsoft.Json.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Antlr3.Runtime.pdb
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\EntityFramework.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\EntityFramework.SqlServer.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Google.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.csproj.AssemblyReference.cache
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.csproj.CoreCompileInputs.cache
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecom.4679353F.Up2Date
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.dll
+D:\MVC_Project_Ecommerce\MVC_ecommerceProject\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.pdb
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\MVC_ecommerceProject.dll.config
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\MVC_ecommerceProject.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\MVC_ecommerceProject.pdb
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\csc.exe
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\csc.exe.config
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\csc.rsp
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\csi.exe
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\csi.exe.config
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\csi.rsp
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.AppContext.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Console.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.IO.Compression.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Net.Http.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Net.Sockets.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.ValueTuple.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Xml.XPath.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\vbc.exe
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\vbc.exe.config
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\vbc.rsp
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\VBCSCompiler.exe
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Antlr3.Runtime.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\EntityFramework.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\EntityFramework.SqlServer.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Google.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Newtonsoft.Json.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Owin.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.Helpers.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.Mvc.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.Optimization.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.Razor.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.WebPages.Deployment.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.WebPages.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.WebPages.Razor.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\WebGrease.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.Helpers.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.Mvc.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.Optimization.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.Razor.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.WebPages.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.WebPages.Deployment.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\System.Web.WebPages.Razor.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Newtonsoft.Json.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Antlr3.Runtime.pdb
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\EntityFramework.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\EntityFramework.SqlServer.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Google.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.csproj.AssemblyReference.cache
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.csproj.CoreCompileInputs.cache
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\obj\Debug\MVC_ecom.4679353F.Up2Date
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.pdb
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.Migrations.Suriya.resources
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.csproj.GenerateResource.cache
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\obj\Debug\MVC_ecommerceProject.Migrations.Mimi.resources
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\PagedList.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\PagedList.Mvc.dll
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\PagedList.xml
+D:\MVC_Project_Ecommerce\Suriya Final MVC\MVC_ecommerceProject\bin\PagedList.Mvc.xml

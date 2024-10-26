@@ -1,0 +1,1021 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|d:\\suriya\u0027s all personal project\\mvc_project\\1280510\\mvc_ecommerceproject\\controllers\\viewproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\controllers\\viewproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\controllers\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\controllers\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\inputmodel\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\inputmodel\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\inputmodel\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\inputmodel\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\inputmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\inputmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\inputmodel\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\inputmodel\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\inputmodel\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\inputmodel\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\inputmodel\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\inputmodel\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\inputmodel\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\inputmodel\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\inputmodel\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\inputmodel\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\viewproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\viewproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\viewproduct\\showproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\viewproduct\\showproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\subcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\subcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\viewproduct\\subcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\viewproduct\\subcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\viewproduct\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\viewproduct\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\viewproduct\\brand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\viewproduct\\brand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\shared\\_error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\shared\\_error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\shared\\_orderresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\shared\\_orderresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\shared\\_success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\shared\\_success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\subcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\subcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\subcategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\subcategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\subcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\subcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\products\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\products\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\products\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\products\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\products\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\products\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MVC_Project_Ecommerce\\1280555\\OnlineStore\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\shoppingcartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\shoppingcartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\retriveproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\retriveproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\orderviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\orderviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\viewmodel\\registerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\viewmodel\\registerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\viewmodel\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\viewmodel\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\viewmodel\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\viewmodel\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\mvc_ecommerceproject\\models\\inputmodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E653E3-6DFA-459A-806A-7D558FEC3C10}|MVC_ecommerceProject\\MVC_ecommerceProject.csproj|solutionrelative:mvc_ecommerceproject\\models\\inputmodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Controllers\\ManageController.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Controllers\\ManageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:53:51.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:07:09.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:20:34.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubCategoryController.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\SubCategoryController.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Controllers\\SubCategoryController.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\SubCategoryController.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Controllers\\SubCategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:44:02.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewProductController.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\ViewProductController.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Controllers\\ViewProductController.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\ViewProductController.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Controllers\\ViewProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:53:01.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:57:34.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:56:36.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\SubCategory.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\InputModel\\SubCategory.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\SubCategory.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\InputModel\\SubCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:11:16.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\ProductImage.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\InputModel\\ProductImage.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\ProductImage.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\InputModel\\ProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:11:10.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:50:29.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\Product.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\InputModel\\Product.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\Product.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\InputModel\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:11:03.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetailModel.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\OrderDetailModel.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\InputModel\\OrderDetailModel.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\OrderDetailModel.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\InputModel\\OrderDetailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:10:55.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\Order.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\InputModel\\Order.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\Order.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\InputModel\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:10:43.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EcommerceDbContext.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\EcommerceDbContext.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\InputModel\\EcommerceDbContext.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\EcommerceDbContext.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\InputModel\\EcommerceDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:10:07.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\Customer.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\InputModel\\Customer.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\Customer.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\InputModel\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:09:47.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\Brand.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\InputModel\\Brand.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\Brand.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\InputModel\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:08:50.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:37:09.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:18:59.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:37:20.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwCEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T19:54:21.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:14:05.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Web.config",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Web.config",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Web.config",
+              "RelativeToolTip": "MVC_ecommerceProject\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-12T09:01:09.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\ViewProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\ViewProduct\\Index.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\ViewProduct\\Index.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\ViewProduct\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:00:01.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShowProduct.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\ViewProduct\\ShowProduct.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\ViewProduct\\ShowProduct.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\ViewProduct\\ShowProduct.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\ViewProduct\\ShowProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:14:31.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\SubCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\SubCategory\\Index.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\SubCategory\\Index.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\SubCategory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:50:50.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:01:12.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\ViewProduct\\Category.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\ViewProduct\\Category.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\ViewProduct\\Category.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\ViewProduct\\Category.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:58:32.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SubCategory.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\ViewProduct\\SubCategory.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\ViewProduct\\SubCategory.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\ViewProduct\\SubCategory.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\ViewProduct\\SubCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:15:22.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Brand.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\ViewProduct\\Brand.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\ViewProduct\\Brand.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\ViewProduct\\Brand.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\ViewProduct\\Brand.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAADQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:57:14.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:16:45.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:21:29.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_success.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Shared\\_success.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Shared\\_success.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Shared\\_success.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Shared\\_success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:29:01.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_error.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Shared\\_error.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Shared\\_error.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Shared\\_error.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Shared\\_error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:30:00.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_orderResult.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Shared\\_orderResult.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Shared\\_orderResult.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Shared\\_orderResult.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Shared\\_orderResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:30:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\SubCategory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\SubCategory\\Edit.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\SubCategory\\Edit.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\SubCategory\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:49:59.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\SubCategory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\SubCategory\\Delete.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\SubCategory\\Delete.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\SubCategory\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:49:10.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\SubCategory\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\SubCategory\\Create.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\SubCategory\\Create.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\SubCategory\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:46:58.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAAAEIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:33:34.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserDetails.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\UserDetails.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Products\\UserDetails.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\UserDetails.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Products\\UserDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:41:40.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Products\\OrderDetails.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\OrderDetails.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Products\\OrderDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:39:05.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\Orders.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Products\\Orders.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\Orders.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Products\\Orders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:40:37.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAAAKAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:36:04.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:34:39.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:17:51.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:17:04.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:15:32.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:05:11.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Brand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Brand\\Delete.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Brand\\Delete.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Brand\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:04:04.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:02:59.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T19:55:34.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MVC_ecommerceProject\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T19:54:59.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MVC_Project_Ecommerce\\1280555\\OnlineStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\MVC_Project_Ecommerce\\1280555\\OnlineStore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MVC_Project_Ecommerce\\1280555\\OnlineStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\MVC_Project_Ecommerce\\1280555\\OnlineStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:52:40.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ShoppingCartModel.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ShoppingCartModel.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\ShoppingCartModel.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ShoppingCartModel.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\ShoppingCartModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:19:53.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RetriveProductView.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\RetriveProductView.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\RetriveProductView.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\RetriveProductView.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\RetriveProductView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:19:45.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ManageViewModels.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ManageViewModels.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\ManageViewModels.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ManageViewModels.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\ManageViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:19:34.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrderViewModels.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\OrderViewModels.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\OrderViewModels.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\OrderViewModels.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\OrderViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:19:04.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UsersViewModel.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ViewModel\\UsersViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\ViewModel\\UsersViewModel.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ViewModel\\UsersViewModel.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\ViewModel\\UsersViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:18:10.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RegisterView.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ViewModel\\RegisterView.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\ViewModel\\RegisterView.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ViewModel\\RegisterView.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\ViewModel\\RegisterView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:17:53.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\IdentityModels.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:26:18.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ViewModel\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\ViewModel\\ProductViewModel.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ViewModel\\ProductViewModel.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\ViewModel\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:17:45.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LogInView.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ViewModel\\LogInView.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\ViewModel\\LogInView.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\ViewModel\\LogInView.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\ViewModel\\LogInView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:17:25.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\Category.cs",
+              "RelativeDocumentMoniker": "MVC_ecommerceProject\\Models\\InputModel\\Category.cs",
+              "ToolTip": "D:\\Suriya\u0027s All personal project\\MVC_Project\\1280510\\MVC_ecommerceProject\\Models\\InputModel\\Category.cs",
+              "RelativeToolTip": "MVC_ecommerceProject\\Models\\InputModel\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:09:09.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

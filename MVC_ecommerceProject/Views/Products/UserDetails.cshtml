@@ -1,0 +1,23 @@
+﻿@model IEnumerable<MVC_ecommerceProject.Models.ViewModel.UsersViewModel>
+@{
+    ViewBag.Title = "UserDetails";
+}
+
+<div class="row">
+    <div class="col">
+        <h1>Users Information</h1>
+
+        @foreach (var u in Model)
+        {
+            <table class="table table-bordered">
+                <tr>
+                    @*<td>@u.Id</td>*@
+                    <td>@u.UserName</td>
+                </tr>
+            </table>
+        }
+
+
+    </div>
+</div>
+
